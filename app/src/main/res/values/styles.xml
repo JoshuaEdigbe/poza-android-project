@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="filter_name">
+        <item name="android:textColor">@color/labelName</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:layout_marginTop">10dp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
+    <style name="rounded_btn_big_gray">
+        <item name="android:width">230dp</item>
+        <item name="android:layout_marginBottom">20dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:background">@drawable/rounded_colored_btn</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="landing_page_icon_btn">
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+</resources>

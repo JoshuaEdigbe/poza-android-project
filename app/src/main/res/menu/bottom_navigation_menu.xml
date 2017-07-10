@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ic_featured_nav"
+        android:icon="@drawable/ic_filter_icon"
+        android:title="Featured">
+    </item>
+
+    <item
+        android:id="@+id/ic_filter_nav"
+        android:icon="@drawable/ic_collections"
+        android:title="Filters">
+    </item>
+
+    <item
+        android:id="@+id/ic_stickers_nav"
+        android:icon="@drawable/ic_sticker_icon"
+        android:title="Stickers">
+    </item>
+
+
+</menu>
